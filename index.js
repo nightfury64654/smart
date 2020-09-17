@@ -3,7 +3,7 @@ const bot = new Discord.Client();
 //const embed = require('./embed');
 
 
-const token = 'Njk2NjM0NjAxMDIzNzMzODAx.Xorlhw.PRvZ2_ZHK14I43uXa1oLLlOYBZg';
+const token = 'NzEwODU5MzY3OTEzNzUwNjI4.Xr6lYA.LWumn3peEbiGcaYkJtToJ3lmIIk';
 const prefix = '/';
 
 bot.on('ready', () => {
